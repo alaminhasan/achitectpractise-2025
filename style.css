@@ -287,7 +287,7 @@ img{
                  }
 
          .quick-list-image{
-            grid-template-columns: calc(50% - 14.5px) calc(50% - 14.5px);
+            grid-template-columns: calc(100% - 4px);
          }
          .some-fact-box-container{
             justify-items: center;
